@@ -1,0 +1,69 @@
+### Sports 
+
+# sports/federer_article.txt
+Federer rocks at tennis again.
+
+# sports/nadal_article.txt
+Nadal retires and joins America's got talent
+
+# sports/football_article.txt
+FIFA acknowledges that footballs are round.
+
+# sports/rugby_article.txt
+Six nations cup cancelled this year.
+
+# sports/f1_article.txt
+F1 drivers found to be secretly slow in real life.
+
+# sports/bowling_article.txt
+Bowling association announces decision to add the 11th pin to the game
+
+### Finance
+
+# finance/stock_prices.txt
+Dow Jones crashed again.
+
+# finance/bitcoin_prices.txt
+Bitcoin stocks crashed again.
+
+# finance/yahoo_prices.txt
+Yahoo stocks crashed again.
+
+# finance/forex.txt
+Trump announces ban on foreign money in NYSE.
+
+# finance/stock_prices.txt
+Hang Seng Index up by 1 point today
+
+### Local news
+# local/cat.txt
+Cat rescued from tree.
+
+# local/cycling.txt
+Free bikes for everyone today!
+
+# local/taxi.txt
+Free taxi rides for everyone today!
+
+# local/parks.txt
+City council announce the construction of 5 new parks
+
+# local/safety.txt
+Chief safety officer reminds citizens to be safe.
+
+
+### Pet news
+# pets/cats.txt
+Research finds that cats are secretly judging humans
+
+# pets/dogs.txt
+Dog makes history as he finally caught his tail
+
+# pets/turtles.txt
+4 turtles found in sewers eating pizzas
+
+# pets/mice.txt
+Mice make breakthrough discovery on humans
+
+# pets/unicorn.txt
+Unicorns found eating candy in forest.
