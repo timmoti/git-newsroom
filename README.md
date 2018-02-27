@@ -21,7 +21,11 @@ Rules:
   - Create a directory named `temp`, create 3 .txt files in it, and add `temp` to `.gitignore`
   - Create a directory named `sandbox`, create 2 .txt files and 1 .doc file in it and ignore only .doc files
 
-2. Bonus activity: Pull requests
+2. Fixing merge conflicts
+  - Simulate a merge conflict by having 2 people edit the same file on the same line.
+  - Fix merge conflict
+
+3. Bonus activity: Pull requests
   - Teammate A: Remove one of your teammates (teammate B) as a collaborator from the repository
   - Teammate B: Because you no longer have access, you won't be able to push to the original repo. You now have to (i) **fork** the repo, (ii) update the remote origin's url in your local machine (hint: use `git remote set-url origin <url>`).
   - Teammate B: make a change, commit, push (to your forked repo) and submit a pull request to the original repo
